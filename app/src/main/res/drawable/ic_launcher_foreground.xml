@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield / Emblem -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,22 L80,32 C80,60 68,76 54,86 C40,76 28,60 28,32 Z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,26 L76,35 C76,58 65,72 54,81 C43,72 32,58 32,35 Z" />
+    <!-- Book Icon Inside -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M38,44 L52,48 L52,68 L38,64 Z M70,44 L56,48 L56,68 L70,64 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 L54,70"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2" />
+    <!-- Star on top -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,30 L56,34 L60,34 L57,36 L58,40 L54,37 L50,40 L51,36 L48,34 L52,34 Z" />
+</vector>
